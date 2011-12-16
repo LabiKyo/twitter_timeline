@@ -11,5 +11,5 @@ Requirement
 Usage
 -----
 
-# >> cp settings.template.js settings.js
-# write your settings
+1. >> cp settings.template.js settings.js
+2. write your settings
